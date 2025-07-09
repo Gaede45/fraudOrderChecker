@@ -1,0 +1,14 @@
+C:\Users\Perfil\CsharpProject\fraudOrderChecker\bin\Debug\net9.0\fraudOrderChecker.exe
+C:\Users\Perfil\CsharpProject\fraudOrderChecker\bin\Debug\net9.0\fraudOrderChecker.deps.json
+C:\Users\Perfil\CsharpProject\fraudOrderChecker\bin\Debug\net9.0\fraudOrderChecker.runtimeconfig.json
+C:\Users\Perfil\CsharpProject\fraudOrderChecker\bin\Debug\net9.0\fraudOrderChecker.dll
+C:\Users\Perfil\CsharpProject\fraudOrderChecker\bin\Debug\net9.0\fraudOrderChecker.pdb
+C:\Users\Perfil\CsharpProject\fraudOrderChecker\obj\Debug\net9.0\fraudOrderChecker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Perfil\CsharpProject\fraudOrderChecker\obj\Debug\net9.0\fraudOrderChecker.AssemblyInfoInputs.cache
+C:\Users\Perfil\CsharpProject\fraudOrderChecker\obj\Debug\net9.0\fraudOrderChecker.AssemblyInfo.cs
+C:\Users\Perfil\CsharpProject\fraudOrderChecker\obj\Debug\net9.0\fraudOrderChecker.csproj.CoreCompileInputs.cache
+C:\Users\Perfil\CsharpProject\fraudOrderChecker\obj\Debug\net9.0\fraudOrderChecker.dll
+C:\Users\Perfil\CsharpProject\fraudOrderChecker\obj\Debug\net9.0\refint\fraudOrderChecker.dll
+C:\Users\Perfil\CsharpProject\fraudOrderChecker\obj\Debug\net9.0\fraudOrderChecker.pdb
+C:\Users\Perfil\CsharpProject\fraudOrderChecker\obj\Debug\net9.0\fraudOrderChecker.genruntimeconfig.cache
+C:\Users\Perfil\CsharpProject\fraudOrderChecker\obj\Debug\net9.0\ref\fraudOrderChecker.dll
